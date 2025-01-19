@@ -4,7 +4,6 @@ Bu repository, Murat Yücedağ'ın Udemy üzerinde yayınladığı "Uygulama Gel
 Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde derinlemesine öğrendiğim konu başlıkları ise şu şekilde:
 
 + Windows Form'da Araç Kullanımları ve Yapılar
-
 + Değişkenler
 
 + Karar Yapıları (if-else, switch-case)
@@ -44,4 +43,4 @@ Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde deri
 
 + LINQ: Daha kolay veri sorgulama ve manipülasyon
 
-• N Katmanlı Mimari: Modüler ve ölçeklenebilir uygulama yapısı
++ N Katmanlı Mimari: Modüler ve ölçeklenebilir uygulama yapısı
