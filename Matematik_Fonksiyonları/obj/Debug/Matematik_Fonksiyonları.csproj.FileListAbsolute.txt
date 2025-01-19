@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.exe.config
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.exe
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.pdb
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Form1.resources
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Properties.Resources.resources
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.exe
+C:\Users\Asus\Desktop\C# Eğitim\Bölüm 10\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.pdb
