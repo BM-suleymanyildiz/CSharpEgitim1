@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karar_Yapilari_switch", "Karar_Yapilari_switch\Karar_Yapilari_switch.csproj", "{1C72E598-9AA4-4CE1-A8EC-365698229EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C72E598-9AA4-4CE1-A8EC-365698229EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C72E598-9AA4-4CE1-A8EC-365698229EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C72E598-9AA4-4CE1-A8EC-365698229EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C72E598-9AA4-4CE1-A8EC-365698229EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB40BEBF-EF9A-4BD5-A0DC-998FC941B35A}
+	EndGlobalSection
+EndGlobal
