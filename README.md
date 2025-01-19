@@ -1,3 +1,4 @@
+# Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti
 Bu repository, Murat Yücedağ'ın Udemy üzerinde yayınladığı "Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti" derslerini içermektedir. Yaklaşık olarak 22 saat süren bu dolu dolu eğitim esnasında öğrendiğim ve geliştirdiğim konu başlıkları, teknolojiler, yapılar ve yaklaşımlar burada yer alıyor.
 
 Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde derinlemesine öğrendiğim konu başlıkları ise şu şekilde:
@@ -32,7 +33,7 @@ Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde deri
 
 • Kullanılan Teknolojiler ve Araçlar
 
-#Eğitim boyunca aktif olarak kullanılan araçlar ve teknolojiler:
+##Eğitim boyunca aktif olarak kullanılan araçlar ve teknolojiler:
 
 • C#: Dilin temelleri ve ileri seviye yapılar
 
@@ -43,4 +44,5 @@ Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde deri
 • Entity Framework: Veritabanı işlemleri için ORM aracı
 
 • LINQ: Daha kolay veri sorgulama ve manipülasyon
+
 • N Katmanlı Mimari: Modüler ve ölçeklenebilir uygulama yapısı
