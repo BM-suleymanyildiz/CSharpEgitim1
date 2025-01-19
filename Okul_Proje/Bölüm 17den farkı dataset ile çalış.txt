@@ -1,0 +1,1 @@
+Bölüm 17den farkı dataset ile çalışma yapılmasıdır (kulüp işlemlerinide dataset kullanılmadı.)
