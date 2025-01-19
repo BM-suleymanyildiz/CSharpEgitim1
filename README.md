@@ -33,7 +33,7 @@ Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde deri
 
 • Kullanılan Teknolojiler ve Araçlar
 
-##Eğitim boyunca aktif olarak kullanılan araçlar ve teknolojiler:
+## Eğitim boyunca aktif olarak kullanılan araçlar ve teknolojiler:
 
 • C#: Dilin temelleri ve ileri seviye yapılar
 
