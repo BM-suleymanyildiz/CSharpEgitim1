@@ -5,44 +5,43 @@ Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde deri
 
 + Windows Form'da Araç Kullanımları ve Yapılar
 
-• Değişkenler
++ Değişkenler
 
-• Karar Yapıları (if-else, switch-case)
++ Karar Yapıları (if-else, switch-case)
 
-• Döngüler (for, while, foreach)
++ Döngüler (for, while, foreach)
 
-• Diziler ve Koleksiyonlar
++ Diziler ve Koleksiyonlar
 
-• Metotlar
++ Metotlar
 
-• Sınıflar ve Nesne Yönelimli Programlama (OOP)
++ Sınıflar ve Nesne Yönelimli Programlama (OOP)
 
-• Microsoft SQL Server ile Veritabanı Yönetimi
++ Microsoft SQL Server ile Veritabanı Yönetimi
 
-• Access Veritabanı Kullanımı
++ Access Veritabanı Kullanımı
 
-• Hata Kontrol Mekanizmaları (try-catch-finally)
++ Hata Kontrol Mekanizmaları (try-catch-finally)
 
-• DataSet ile CRUD (Create, Read, Update, Delete) İşlemleri
++ DataSet ile CRUD (Create, Read, Update, Delete) İşlemleri
 
-• Entity Framework Kullanımı
++ Entity Framework Kullanımı
 
-• LINQ ile Veri Sorgulama
++ LINQ ile Veri Sorgulama
 
-• OOP Prensipleriyle N Katmanlı Mimari Tasarımı
++ OOP Prensipleriyle N Katmanlı Mimari Tasarımı
 
-• Kullanılan Teknolojiler ve Araçlar
 
 ## Eğitim boyunca aktif olarak kullanılan araçlar ve teknolojiler:
 
-• C#: Dilin temelleri ve ileri seviye yapılar
++ C#: Dilin temelleri ve ileri seviye yapılar
 
-• Windows Form Uygulamaları: Görsel arayüz geliştirme
++ Windows Form Uygulamaları: Görsel arayüz geliştirme
 
-• Microsoft SQL Server: Veritabanı yönetimi ve sorgulama
++ Microsoft SQL Server: Veritabanı yönetimi ve sorgulama
 
-• Entity Framework: Veritabanı işlemleri için ORM aracı
++ Entity Framework: Veritabanı işlemleri için ORM aracı
 
-• LINQ: Daha kolay veri sorgulama ve manipülasyon
++ LINQ: Daha kolay veri sorgulama ve manipülasyon
 
 • N Katmanlı Mimari: Modüler ve ölçeklenebilir uygulama yapısı
