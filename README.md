@@ -3,7 +3,7 @@ Bu repository, Murat Yücedağ'ın Udemy üzerinde yayınladığı "Uygulama Gel
 
 Windows Form Uygulamaları geliştirerek C# ve Form Uygulamaları üzerinde derinlemesine öğrendiğim konu başlıkları ise şu şekilde:
 
-• Windows Form'da Araç Kullanımları ve Yapılar
++ Windows Form'da Araç Kullanımları ve Yapılar
 
 • Değişkenler
 
